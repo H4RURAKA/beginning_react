@@ -1,0 +1,35 @@
+.load {
+  margin-top: 120px;
+  font-size: 20px;
+  display: block;
+  color: white;
+}
+
+.movie {
+  padding: 3%;
+  transition: 0.5s;
+}
+
+.movie:hover {
+  padding-top: 0%;
+  padding-bottom: 6%;
+  transition: 0.5s;
+}
+
+.movie:hover > .movie_cover {
+  box-shadow: 0px 0px 10px 2px rgb(163, 163, 179);
+}
+
+.movie_cover {
+  width: 90%;
+  margin: auto;
+  display: block;
+  border-radius: 2%;
+}
+
+.movie_title {
+  font-size: 17px;
+  font-style: normal;
+  color: white;
+  margin-left: 5%;
+}

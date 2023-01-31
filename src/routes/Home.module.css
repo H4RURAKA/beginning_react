@@ -1,0 +1,27 @@
+* {
+  text-decoration-line: none;
+  background-color: rgb(24, 23, 29);
+}
+
+.outer {
+  margin-top: 0px;
+}
+
+.load {
+  margin-top: 120px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+  display: block;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0px 20px;
+}

@@ -1,0 +1,56 @@
+.load {
+  margin-top: 120px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.main_detail {
+  position: relative;
+}
+
+.blurred_cover {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cover_and_details {
+  position: absolute;
+  top: 0px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.movie_cover {
+  width: auto;
+  height: auto;
+}
+
+.details_all {
+  width: 50%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie_title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 45px;
+}
+
+.movie_summary {
+  font-size: 18px;
+}
+
+.details {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
