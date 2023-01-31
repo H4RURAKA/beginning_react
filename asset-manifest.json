@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beginning_react/static/css/main.fb1555d9.css",
+    "main.js": "/beginning_react/static/js/main.e41e79c4.js",
+    "index.html": "/beginning_react/index.html",
+    "main.fb1555d9.css.map": "/beginning_react/static/css/main.fb1555d9.css.map",
+    "main.e41e79c4.js.map": "/beginning_react/static/js/main.e41e79c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1555d9.css",
+    "static/js/main.e41e79c4.js"
+  ]
+}
